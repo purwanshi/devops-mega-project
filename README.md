@@ -3,4 +3,4 @@
 ✅ Containerize each service using Docker
 ✅ Integrate Redis for caching
 ✅ Use PostgreSQL as the database
-✅ Manage everything using Docker Compose
+✅ Manage everything using Docker Compose.
